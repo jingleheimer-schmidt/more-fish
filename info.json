@@ -1,0 +1,13 @@
+{
+  "name": "more-fish",
+  "version": "0.0.1",
+  "title": "More Fish",
+  "author": "asher_sky",
+  "contact": "",
+  "homepage": "",
+  "description": "Adds more types of fish to catch",
+  "factorio_version": "1.1",
+  "dependencies": [
+	"base"
+	]
+}
