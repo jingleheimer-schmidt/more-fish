@@ -5,7 +5,7 @@ This mod adds 4 new types of fish to catch, increasing both the variety and amou
 # Features
 - Cod, Salmon, Clownfish, and Pufferfish
 - Nostalgic minecraft fish graphics
-- Fish spawn in the main menu simulations
+- Fish spawn in main menu simulations
 - Fish spawn in chunks generated before mod installation
 
 ----------------------------
