@@ -220,6 +220,7 @@ local salmonItem = {
     }
   },
   order = "h[raw-fish][salmon]",
+  rocket_launch_product = {"raw-fish", 1},
   stack_size = 100
 }
 
@@ -266,6 +267,7 @@ local codItem = {
     }
   },
   order = "h[raw-fish][cod]",
+  rocket_launch_product = {"raw-fish", 1},
   stack_size = 100
 }
 
@@ -312,6 +314,7 @@ local pufferfishItem = {
     }
   },
   order = "h[raw-fish][pufferfish]",
+  rocket_launch_product = {"raw-fish", 1},
   stack_size = 100
 }
 
@@ -358,6 +361,7 @@ local clownfishItem = {
     }
   },
   order = "h[raw-fish][clownfish]",
+  rocket_launch_product = {"raw-fish", 1},
   stack_size = 100
 }
 
