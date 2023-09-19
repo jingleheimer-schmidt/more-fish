@@ -5,6 +5,7 @@ This mod adds 4 new types of fish to catch, increasing both the variety and amou
 # Features
 - Cod, Salmon, Clownfish, and Pufferfish
 - Nostalgic minecraft fish graphics
+- Fish spawn in the main menu simulations
 
 ----------------------------
 Companion mod to: [Cooked Fish](https://mods.factorio.com/mod/factorio-cooked-fish) and [Repair Fish](https://mods.factorio.com/mod/repair-fish)

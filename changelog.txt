@@ -2,6 +2,7 @@
 Version: 0.0.2
 Date: 18SEP2023
   Changes:
+    - added fish autoplacement for main menu simulations
     - added fish autoplacement for saves with chunks generated before mod installation
     - added raw-fish as a rocket launch product for cod, salmon, pufferfish, and clownfish
   Locale:
