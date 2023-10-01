@@ -21,6 +21,7 @@ Help translate More Fish to more languages: https://crowdin.com/project/factorio
 Currently available locale:
 - English (en)
 - Russian (ru)
+- Ukrainian (uk)
 
 --------------------------
 # License
