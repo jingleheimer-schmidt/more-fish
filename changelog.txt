@@ -1,4 +1,9 @@
 ---------------------------------------------------------------------------------------------------
+Version: 0.0.3
+Date: 30SEP2023
+  Changes:
+    - added compatibility with other mods that use simhelper funccapture for main menu background simulation scripts
+---------------------------------------------------------------------------------------------------
 Version: 0.0.2
 Date: 18SEP2023
   Changes:
