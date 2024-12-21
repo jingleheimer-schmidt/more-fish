@@ -19,9 +19,7 @@ There are currently no known mod compatibility issues. To report a compatibility
 # Translation
 Help translate More Fish to more languages: https://crowdin.com/project/factorio-mods-localization
 Currently available locale:
-- English (en)
-- Russian (ru)
-- Ukrainian (uk)
+🇺🇸 English (en), 🇪🇸 Catalan (ca), 🇫🇷 French (fr), 🇷🇺 Russian (ru), 🇺🇦 Ukrainian (uk)
 
 --------------------------
 # License
