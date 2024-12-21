@@ -54,44 +54,7 @@ local function create_capsule(name, icon, damage_amount)
     return capsule
 end
 
-local fish_data = {
-    {
-        name = "salmon",
-        icon = "__more-fish__/graphics/icons/Raw_Salmon_JE2_BE2.png",
-        minable_count = 5,
-        order = "b-a-salmon",
-        autoplace_order = "x-salmon",
-        damage_amount = -80,
-        probability_expression = 0.01
-    },
-    {
-        name = "cod",
-        icon = "__more-fish__/graphics/icons/Raw_Cod_JE4_BE2.png",
-        minable_count = 5,
-        order = "b-a-cod",
-        autoplace_order = "x-cod",
-        damage_amount = -80,
-        probability_expression = 0.01
-    },
-    {
-        name = "pufferfish",
-        icon = "__more-fish__/graphics/icons/Pufferfish_(item)_JE5_BE2.png",
-        minable_count = 2,
-        order = "b-a-pufferfish",
-        autoplace_order = "x-pufferfish",
-        damage_amount = 80,
-        probability_expression = 0.001
-    },
-    {
-        name = "clownfish",
-        icon = "__more-fish__/graphics/icons/Tropical_Fish_JE2_BE2.png",
-        minable_count = 1,
-        order = "b-a-clownfish",
-        autoplace_order = "x-clownfish",
-        damage_amount = -100,
-        probability_expression = 0.0025
-    }
-}
+local fish_data = require("constants").fish_data
 
 local entities = {}
 
