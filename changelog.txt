@@ -1,8 +1,12 @@
 ---------------------------------------------------------------------------------------------------
 Version: 1.0.0
-Date: ????
+Date: 20DEC2024
   Changes:
     - updated to support Factorio 2.0
+  Locale:
+    - added Catalan (ca) translation from Crowdin
+    - added French (fr) translation from Crowdin
+    - updated Russian (ru) translation from Crowdin
 ---------------------------------------------------------------------------------------------------
 Version: 0.0.5
 Date: 06JAN2024
