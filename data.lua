@@ -3,6 +3,13 @@ local sounds = require("__base__.prototypes.entity.sounds")
 local base_fish = data.raw["fish"]["fish"]
 local base_capsule = data.raw["capsule"]["raw-fish"]
 
+--- Creates a new fish prototype based on the base fish.
+--- @param name string The name of the new fish.
+--- @param icon string The path to the icon for the new fish.
+--- @param minable_count number The number of fish that will be returned when mined.
+--- @param probability_expression data.NoiseExpression The probability expression for the fish's autoplace.
+--- @param autoplace_order string The order for the fish's autoplace.
+--- @return data.FishPrototype
 local function create_fish(name, icon, minable_count, probability_expression, autoplace_order)
     local fish = table.deepcopy(base_fish)
     fish.name = name
@@ -18,6 +25,12 @@ local function create_fish(name, icon, minable_count, probability_expression, au
     return fish
 end
 
+
+--- Creates a capsule item with specified properties.
+--- @param name string The name of the capsule.
+--- @param icon string The icon path for the capsule.
+--- @param damage_amount number The amount of damage the capsule will deal when used.
+--- @return data.CapsulePrototype
 local function create_capsule(name, icon, damage_amount)
     local capsule = table.deepcopy(base_capsule)
     capsule.name = "raw-" .. name
