@@ -1,6 +1,6 @@
 ---------------------------------------------------------------------------------------------------
 Version: 1.0.1
-Date: ????
+Date: 2024-12-21
   Changes:
     - updated fish autoplacement to use Factorio 2.0 autoplace API
     - changed fish autoplacement to evenly distribute fish instead of utilizing water range/influence peak settings
