@@ -44,7 +44,7 @@ local fish_data = {
         order = "b-a-clownfish",
         autoplace_order = "x-clownfish",
         damage_amount = -100,
-        probability_expression = 0.0025
+        probability_expression = 0.005
     }
 }
 
