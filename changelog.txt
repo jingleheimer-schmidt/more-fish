@@ -2,6 +2,7 @@
 Version: 1.0.2
 Date: ????
   Changes:
+    - check for spoilage flag instead of space-age mod presence to determine if fish should spoil
 ---------------------------------------------------------------------------------------------------
 Version: 1.0.1
 Date: 2024-12-21
