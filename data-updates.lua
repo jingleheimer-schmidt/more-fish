@@ -20,7 +20,7 @@ for _, planet in pairs(data.raw["planet"]) do
     end
 end
 
-if mods["space-age"] then
+if feature_flags["spoiling"] then
     for _, fish in pairs(fish_data) do
         data.raw.capsule["raw-" .. fish.name].spoil_ticks = 453000
         data.raw.capsule["raw-" .. fish.name].spoil_result = "spoilage"
